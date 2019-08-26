@@ -7,7 +7,7 @@ title: Scholarship
 ### Recent Publications
 <ul>
 {% for publication in site.data.publications %}
-<li><a href="https://www.emfink.net/publications/{{ publication.pdf }}" target="_blank">{{ publication.title }}</a>, {{ publication.volume }} {{ publication.journal }} {{ publication.page }} ({{ publication.date }})</li>
+<li><a href="https://luckyjimjd.github.io/assets/pdf/{{ publication.pdf }}" target="_blank">{{ publication.title }}</a>, {{ publication.volume }} {{ publication.journal }} {{ publication.page }} ({{ publication.date }})</li>
 {% endfor %}
 </ul>
 
