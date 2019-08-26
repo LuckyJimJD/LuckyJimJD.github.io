@@ -1,2 +1,3 @@
-# luckyjimjd.github.io
+# emfink.net
+
 Personal website for Eric M. Fink

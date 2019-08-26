@@ -1,0 +1,19 @@
+- title: fa fa-envelope
+  url: 'mailto:emfink@gmail.com'
+  label: Email
+
+- title: ai ai-cv
+  url: https://emfink.net/assets/vita/EMF_Vita.pdf
+  label: CV
+
+- title: fa fa-briefcase
+  url: https://emfink.net/ElonLaw
+  label: Work
+
+- title: fab fa-github
+  url: https://github.com/LuckyJimJD
+  label: GitHub
+
+- title: fab fa-soundcloud
+  url: https://soundcloud.com/luckyjimjd
+  label: soundcloud
