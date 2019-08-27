@@ -1,5 +1,5 @@
 ---
-url: https://emfink.net # the base hostname & protocol for your site
+url: https://www.emfink.net # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 title: Eric M. Fink
 description:  # leave blank if you don't want to display a description 
