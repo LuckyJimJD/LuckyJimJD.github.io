@@ -1,5 +1,7 @@
 .social {
-    margin: 50px 0 0 0;
+    border-top: 0px solid $grey-color-light;
+    margin-top: 2rem;
+    line-height: 2.5;
 }
 
 .contacticon {
@@ -31,21 +33,4 @@
 .social-icons iframe[title=Flattr] {
     position: relative;
     top: 0.1em;
-}
-
-.list-inline {
-    list-style: none;
-    font-size: 28px;
-    margin: 0 0 0 0;
-    padding: 0 0 0 0;
-}
-
-.list-inline>li {
-    display: inline-block;
-    margin: 0 0 0 0;
-    padding: 0 25px 0 0;
-}
-
-.list-inline-item {
-    display: inline-block;
 }
