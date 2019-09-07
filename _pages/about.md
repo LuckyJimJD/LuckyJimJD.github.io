@@ -6,10 +6,9 @@ title: Home
 social: true
 ---
 
-<h1 class="profile">{{ site.author }}</h1>
-<h2 class="profile">{{ site.position }}</h2>
-<h3 class="profile">{{ site.institution }}</h3>
-<h4 class="profile">{{ site.street }}</h4>
-<h4 class="profile">{{ site.city }}, {{ site.state }} {{ site.zip }}</h4>
-<h4 class="profile">{{ site.phone }}</h4>
-<h4 class="profile">{{ site.email }}</h4>
+# {{ site.author }}
+## {{ site.city }}, {{ site.state }} 
+
+[I'm tired and I'm hungry and I'm looking for my youth, \\
+I'm a little uncool and I'm a little uncouth, \\
+Oh, excuse me, yes, excuse me if you will](https://soundcloud.com/luckyjimjd/new-paint)
