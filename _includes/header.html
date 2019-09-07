@@ -3,10 +3,9 @@
   <div class="wrapper">
 
     {% if page.layout != "about" %}
-    <span class="site-title">
-        {% assign name = site.name | split: ' ' %}
-        <strong>{{ name | first }}</strong> {{ name | last }}
-    </span>
+    <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/"><span class="site-title">
+        <strong>{{ site.data.course.subject }}</strong>
+    </span></a>
     {% endif %}
 
     <nav class="site-nav">
@@ -23,17 +22,35 @@
 
       <div class="trigger">
         <!-- About -->
-        <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/"><b>Home</b></a>
+        <!-- <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/"><b>Home</b></a> -->
 
         <!-- Blog -->
         <!-- <a class="page-link" href="{{ '/blog/' | prepend: site.baseurl | prepend: site.url }}">blog</a> -->
 
         <!-- Pages -->
-        {% for page in site.pages %}
+        
+        <!-- <a class="page-link" href="{{ '/links/' | prepend: site.baseurl | prepend: site.url }}">Links</a>
+        
+        <a class="page-link" href="{{ '/materials/' | prepend: site.baseurl | prepend: site.url }}">Materials</a>
+        
+        <a class="page-link" href="{{ '/syllabus/' | prepend: site.baseurl | prepend: site.url }}">Syllabus</a> -->
+        
+        {% for page in site.data.pages %}
+            <a class="page-link" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">{{ page.title }}</a>
+        {% endfor %}
+        
+        
+        <!-- {% for page in site.pages %}
           {% if page.title and page.url != "/" %}
             <a class="page-link" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">{{ page.title }}</a>
           {% endif %}
-        {% endfor %}
+        {% endfor %} -->
+
+        <!-- <a class="page-link" href="{{ '/links/' | prepend: site.baseurl | prepend: site.url }}">Links</a>
+
+        <a class="page-link" href="{{ '/materials/' | prepend: site.baseurl | prepend: site.url }}">Materials</a>
+
+        <a class="page-link" href="{{ '/syllabus/' | prepend: site.baseurl | prepend: site.url }}">Syllabus</a> -->
 
         <!-- CV link -->
         <!-- <a class="page-link" href="{{ '/assets/pdf/CV.pdf' | prepend: site.baseurl | prepend: site.url }}">vitae</a> -->

@@ -3,7 +3,8 @@
   label: Email
 
 - title: ai ai-cv
-  url: https://luckyjimjd.github.io/assets/vita/EMF_Vita.pdf
+  url: /cv/
+ 
   label: CV
 
 - title: fa fa-briefcase

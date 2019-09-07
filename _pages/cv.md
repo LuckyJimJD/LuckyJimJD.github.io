@@ -4,23 +4,12 @@ permalink: /cv/
 title: CV
 
 author: Eric M. Fink
-affiliation: Elon Law School
+affiliation: Elon University School of Law
 email: efink@elon.edu
 phone: 336-279-9334
 address1: 201 North Greene Street
 address2: Greensboro, North Carolina 27401
-web: emfink.net
-
-mainfont: 'Cormorant Garamond'
-scfont: 'Cormorant SC'
-sansfont: 'Proza Libre'
-monofont: Inconsolata
-titlefont: 'Proza Libre Bold'
-fontsize: 11pt
-
-geometry: 
-indent: false
-numbersections: false
+web: emfink.net/ElonLaw
 
 output: 
   pdf_document:
@@ -38,20 +27,19 @@ output:
 
 ### Teaching
 
-#### 2018-19
+#### 2019-20
 
-- Professional Responsibility (Fall 2018)
-- Employment Law (Winter 2019)
-- Legal Practice Residency Tutorial (Spring 2019)
+- Civil Procedure (Fall 2019)
+- Professional Responsibility (Fall 2019)
+- Consumer Protection (Winter 2020)
+- Labor Law (Winter 2020)
 
 #### Past 
 
 - Administrative Law
 - Business Associations
 - Cause Lawyering
-- Civil Procedure 
-- Consumer Protection
-- Labor Law
+- Employment Law
 - Socio-Legal Perspectives
 
 ### Service
@@ -70,31 +58,31 @@ output:
 
 ### Journal Articles
 
-"Just When I Thought I was Out …": Post-Employment Repayment Obligations, with Stuart Lichten, 25 Washington & Lee Journal of Civil Rights & Social Justice 51 (2018)
+"Just When I Thought I was Out …": Post-Employment Repayment Obligations, with Stuart Lichten, 25 *Washington & Lee Journal of Civil Rights & Social Justice* 51 (2018)
 
-Union Organizing & Collective Bargaining for Incarcerated Workers, 52 Idaho Law Review 953 (2016)
+Union Organizing & Collective Bargaining for Incarcerated Workers, 52 *Idaho Law Review* 953 (2016)
 
-Sewer Syndicalism: Worker Control in Public Services, 14 Nevada Law Journal 444 (2014)
+Sewer Syndicalism: Worker Control in Public Services, 14 *Nevada Law Journal* 444 (2014)
 
-No Money, Mo’ Problems: Why Unpaid Law Firm Internships Are Illegal and Unethical, 47 University of San Francisco Law Review 435 (2013)
+No Money, Mo’ Problems: Why Unpaid Law Firm Internships Are Illegal and Unethical, 47 *University of San Francisco Law Review* 435 (2013)
 
-The Virtual Construction of Legality: "Griefing" and Normative Order in Second Life, 21 Journal of Law, Information, and Science 89 (2011)
+The Virtual Construction of Legality: "Griefing" and Normative Order in Second Life, 21 *Journal of Law, Information, and Science* 89 (2011)
 
-Law School and The Web of Group Affiliation: Socializing, Socialization, and Social Network Site Use Among Law Students, 27 John Marshall Journal of Computer and Information Law 325 (2010)
+Law School and The Web of Group Affiliation: Socializing, Socialization, and Social Network Site Use Among Law Students, 27 *John Marshall Journal of Computer and Information Law* 325 (2010)
 
-Liars and Terrorists and Judges, Oh My: Moral Panic and the Symbolic Politics of Appellate Review in Asylum Cases, 83 Notre Dame Law Review 2019 (2008); reprinted in 29 Immigration and Nationality Law Review 45 (2008); cited in Djadjou v. Holder, 662 F.3d 265 (4th Cir. 2011) and Zuh v. Mukasey, 547 F.3d 504, 513 (4th Cir. 2008)
+Liars and Terrorists and Judges, Oh My: Moral Panic and the Symbolic Politics of Appellate Review in Asylum Cases, 83 *Notre Dame Law Review* 2019 (2008); reprinted in 29 *Immigration and Nationality Law Review* 45 (2008); cited in Djadjou v. Holder, 662 F.3d 265 (4th Cir. 2011) and Zuh v. Mukasey, 547 F.3d 504, 513 (4th Cir. 2008)
 
-Post-Realism, or the Jurisprudential Logic of Late Capitalism: A Socio-Legal Analysis of the Rise and Diffusion of Law and Economics, 55 Hastings Law Journal 931 (2004)
+Post-Realism, or the Jurisprudential Logic of Late Capitalism: A Socio-Legal Analysis of the Rise and Diffusion of Law and Economics, 55 *Hastings Law Journal* 931 (2004)
 
-Book Note, The Caribbean: New Dynamics in Trade and Political Economy,28 NYU Journal of International Law and Politics 644 (1996)
+Book Note, The Caribbean: New Dynamics in Trade and Political Economy,28 *NYU Journal of International Law and Politics* 644 (1996)
 
 ### Chapters, Reports, & Other Publications
 
 Federal Student Loan Servicing: Contract Problems and Public Solutions, with Roland Zullo, Jobs With Justice Education Fund (2014)
 
-Union and Employee Access to Employer E-mail Systems Under Federal Labor Law, with Stuart W. Davidson, in The CyberUnion Handbook: Transforming Labor Through Computer Technology (A. Shostak, ed., 2002)
+Union and Employee Access to Employer E-mail Systems Under Federal Labor Law, with Stuart W. Davidson, in *The CyberUnion Handbook: Transforming Labor Through Computer Technology* (A. Shostak, ed., 2002)
 
-Contributing Editor, The Developing Labor Law (P. Hardin, ed., 4th ed. 2001)
+Contributing Editor, *The Developing Labor Law* (P. Hardin, ed., 4th ed. 2001)
 
 
 # Conference Presentations
@@ -190,7 +178,7 @@ Contributing Editor, The Developing Labor Law (P. Hardin, ed., 4th ed. 2001)
 
 - Voting Rights in North Carolina (February 18, 2017)
 
-### North Carolina Open Government Coalition/Sunshine Center
+### Open Government Coalition/Sunshine Center
 
 - NC Open Government Law: A Guide for Public Officials (October 22, 2009)
 - Forum on NC Public Records Law (March 20, 2008)
@@ -283,19 +271,13 @@ Contributing Editor, The Developing Labor Law (P. Hardin, ed., 4th ed. 2001)
 
 # Professional Associations 
 
-Working Class Studies Association
-
-Labor & Working Class History Association
-
-Labor Research & Action Network
-
-Law and Society Association
-
-National Lawyers Guild
-
-North Carolina Bar Association
-
-NC State Bar Ethics Committee, Advisory Member (2011-2013)
+##### Working Class Studies Association
+##### Labor & Working Class History Association
+##### Labor Research & Action Network
+##### Law and Society Association
+##### National Lawyers Guild
+##### North Carolina Bar Association
+##### NC State Bar Ethics Committee, Advisory Member (2011-2013)
 
 # Bar Admissions
 

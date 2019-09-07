@@ -22,7 +22,7 @@ footer {
   background-color: $grey-color-dark;
   border-top: $footer-border-top;
   color: $footer-color;
-  font-size: $footer-font-size;
+  font-size: .5rem;
   font-weight: $footer-font-weight;
   padding: $footer-padding;
   position: fixed;
@@ -32,4 +32,14 @@ footer {
 
   a { color: #fff; }
   a:hover { color: $theme-color; }
+}
+
+
+@media only screen
+and (min-device-width:576px){
+    footer {
+      font-size: $footer-font-size;
+      padding: $footer-padding;
+    }
+
 }

@@ -1,18 +1,17 @@
 .site-header {
     border-bottom: 1px solid $grey-color-light;
     background-color: #fff;
-    opacity: 0.95;
+    opacity: 1;
     position:fixed;
     left:calc((100vw - 100%)/2);
     top:0px;
     width:100%;
     z-index: 50;
 }
-
 .site-title {
     font-size: 20px;
+    color: $dark_red;
     line-height: $nav-height;
-    letter-spacing: -1px;
     margin-bottom: 0;
 }
 .site-nav {
