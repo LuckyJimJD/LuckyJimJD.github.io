@@ -50,8 +50,7 @@ output:
 
 #### Law School
 
-- Faculty Development & Engaged Learning Committee
-- Bar Exam Support Committee
+- Curriculum Committee
 - Elon Law Review, Faculty Co-Advisor
 
 # Publications
