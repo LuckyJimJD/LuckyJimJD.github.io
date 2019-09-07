@@ -25,16 +25,14 @@ output:
 - Tenure awarded 2012
 - Jennings Professor and Emerging Scholar, 2010-2012
 
-### Teaching
-
-#### 2019-20
+### Teaching: 2019-20
 
 - [Civil Procedure](https://www.emfink.net/CivilProcedure/) (Fall 2019)
 - [Professional Responsibility](https://www.emfink.net/ProfessionalResponsibility/) (Fall 2019)
 - [Consumer Protection](https://www.emfink.net/ConsumerProtection/) (Winter 2020)
 - [Labor Law](https://www.emfink.net/LaborLaw/) (Winter 2020)
 
-#### Past 
+### Other Courses Taught
 
 - Administrative Law
 - Business Associations
@@ -42,16 +40,15 @@ output:
 - [Employment Law](https://www.emfink.net/EmploymentLaw/)
 - Socio-Legal Perspectives
 
-### Service
 
-#### University
-
-- Poverty & Social Justice program steering committee
-
-#### Law School
+### Law School Service
 
 - Curriculum Committee
 - Elon Law Review, Faculty Co-Advisor
+
+### University Service
+
+- Poverty & Social Justice program steering committee
 
 # Publications
 
