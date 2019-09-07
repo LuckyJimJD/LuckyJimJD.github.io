@@ -29,17 +29,17 @@ output:
 
 #### 2019-20
 
-- Civil Procedure (Fall 2019)
-- Professional Responsibility (Fall 2019)
-- Consumer Protection (Winter 2020)
-- Labor Law (Winter 2020)
+- [Civil Procedure](https://www.emfink.net/CivilProcedure/) (Fall 2019)
+- [Professional Responsibility](https://www.emfink.net/ProfessionalResponsibility/) (Fall 2019)
+- [Consumer Protection](https://www.emfink.net/ConsumerProtection/) (Winter 2020)
+- [Labor Law](https://www.emfink.net/LaborLaw/) (Winter 2020)
 
 #### Past 
 
 - Administrative Law
 - Business Associations
-- Cause Lawyering
-- Employment Law
+- [Cause Lawyering](https://www.emfink.net/CauseLawyering/)
+- [Employment Law](https://www.emfink.net/EmploymentLaw/)
 - Socio-Legal Perspectives
 
 ### Service
@@ -58,27 +58,27 @@ output:
 
 ### Journal Articles
 
-"Just When I Thought I was Out …": Post-Employment Repayment Obligations, with Stuart Lichten, 25 *Washington & Lee Journal of Civil Rights & Social Justice* 51 (2018)
+["Just When I Thought I was Out …": Post-Employment Repayment Obligations](https://www.emfink.net/assets/publications/Post-Employment_Repayment_Obligations.pdf), with Stuart Lichten, 25 *Washington & Lee Journal of Civil Rights & Social Justice* 51 (2018)
 
-Union Organizing & Collective Bargaining for Incarcerated Workers, 52 *Idaho Law Review* 953 (2016)
+[Union Organizing & Collective Bargaining for Incarcerated Workers](https://www.emfink.net/assets/publications/Unions_for_Incarcerated_Workers.pdf), 52 *Idaho Law Review* 953 (2016)
 
-Sewer Syndicalism: Worker Control in Public Services, 14 *Nevada Law Journal* 444 (2014)
+[Sewer Syndicalism: Worker Control in Public Services](https://www.emfink.net/assets/publications/Sewer_Syndicalism.pdf), 14 *Nevada Law Journal* 444 (2014)
 
-No Money, Mo’ Problems: Why Unpaid Law Firm Internships Are Illegal and Unethical, 47 *University of San Francisco Law Review* 435 (2013)
+[No Money, Mo’ Problems: Why Unpaid Law Firm Internships Are Illegal and Unethical](https://www.emfink.net/assets/publications/Unpaid_Law_Firm_Internships.pdf), 47 *University of San Francisco Law Review* 435 (2013)
 
-The Virtual Construction of Legality: "Griefing" and Normative Order in Second Life, 21 *Journal of Law, Information, and Science* 89 (2011)
+[The Virtual Construction of Legality: "Griefing" and Normative Order in Second Life](https://www.emfink.net/assets/publications/Law_in_Second_Life.pdf), 21 *Journal of Law, Information, and Science* 89 (2011)
 
-Law School and The Web of Group Affiliation: Socializing, Socialization, and Social Network Site Use Among Law Students, 27 *John Marshall Journal of Computer and Information Law* 325 (2010)
+[Law School and The Web of Group Affiliation: Socializing, Socialization, and Social Network Site Use Among Law Students](https://www.emfink.net/assets/publications/Law_Students_&_Facebook.pdf), 27 *John Marshall Journal of Computer and Information Law* 325 (2010)
 
-Liars and Terrorists and Judges, Oh My: Moral Panic and the Symbolic Politics of Appellate Review in Asylum Cases, 83 *Notre Dame Law Review* 2019 (2008); reprinted in 29 *Immigration and Nationality Law Review* 45 (2008); cited in Djadjou v. Holder, 662 F.3d 265 (4th Cir. 2011) and Zuh v. Mukasey, 547 F.3d 504, 513 (4th Cir. 2008)
+[Liars and Terrorists and Judges, Oh My: Moral Panic and the Symbolic Politics of Appellate Review in Asylum Cases](https://www.emfink.net/assets/publications/Adverse_Credibility_in_Immigration_Court.pdf), 83 *Notre Dame Law Review* 2019 (2008); reprinted in 29 *Immigration and Nationality Law Review* 45 (2008); cited in Djadjou v. Holder, 662 F.3d 265 (4th Cir. 2011) and Zuh v. Mukasey, 547 F.3d 504, 513 (4th Cir. 2008)
 
-Post-Realism, or the Jurisprudential Logic of Late Capitalism: A Socio-Legal Analysis of the Rise and Diffusion of Law and Economics, 55 *Hastings Law Journal* 931 (2004)
+[Post-Realism, or the Jurisprudential Logic of Late Capitalism: A Socio-Legal Analysis of the Rise and Diffusion of Law and Economics](https://www.emfink.net/assets/publications/Diffusion_of_Law_&_Econ.pdf), 55 *Hastings Law Journal* 931 (2004)
 
 Book Note, The Caribbean: New Dynamics in Trade and Political Economy,28 *NYU Journal of International Law and Politics* 644 (1996)
 
 ### Chapters, Reports, & Other Publications
 
-Federal Student Loan Servicing: Contract Problems and Public Solutions, with Roland Zullo, Jobs With Justice Education Fund (2014)
+[Federal Student Loan Servicing: Contract Problems and Public Solutions](https://www.emfink.net/assets/publications/Student_Loan_Servicing.pdf), with Roland Zullo, Jobs With Justice Education Fund (2014)
 
 Union and Employee Access to Employer E-mail Systems Under Federal Labor Law, with Stuart W. Davidson, in *The CyberUnion Handbook: Transforming Labor Through Computer Technology* (A. Shostak, ed., 2002)
 
