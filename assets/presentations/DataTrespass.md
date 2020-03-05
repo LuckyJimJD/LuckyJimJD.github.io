@@ -156,7 +156,7 @@ Union members take jobs at non-union workplaces with the aim of organizing the e
 
 ### Salting 
 
-Salting may be overt (the salt discloses their union affiliation when they apply) or covert (the conceal their union affiliation).
+Salting may be overt (the salt discloses their union affiliation when they apply) or covert (they conceal their union affiliation).
 
 *** 
 
