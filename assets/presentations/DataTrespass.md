@@ -1,15 +1,15 @@
 <style>
-.reveal  {
-    transition: none;
-    font-size: 20px;  
+  .reveal  {
+    font-size: 32px;
 }  
+
 .reveal  li {
     margin-top: 12px;
     margin-bottom: 24px;
 }  
 </style>
 
-## Data Trespass & Labor Pre-Emption
+## State Data Trespass & Federal Labor Law 
 
 Eric M. Fink 
 
@@ -33,7 +33,17 @@ Eric M. Fink
 ### Act that exceeds the person's authority to enter
 
 > (1) An employee who enters the nonpublic areas of an employer's premises for a reason other than a bona fide intent of seeking or holding employment or doing business with the employer and thereafter without authorization captures or removes the employer's data, paper, records, or any other documents and uses the information to breach the person's duty of loyalty to the employer.
+
+*** 
+
+### Act that exceeds the person's authority to enter
+
 > (2) An employee who intentionally enters the nonpublic areas of an employer's premises for a reason other than a bona fide intent of seeking or holding employment or doing business with the employer and thereafter without authorization records images or sound occurring within an employer's premises and uses the recording to breach the person's duty of loyalty to the employer.
+
+*** 
+
+### Act that exceeds the person's authority to enter
+
 > (3) Knowingly or intentionally placing on the employer's premises an unattended camera or electronic surveillance device and using that device to record images or data.
 
 *** 
@@ -46,10 +56,10 @@ Eric M. Fink
 
 ### Remedies 
 
-- Equitable relief
-- Compensatory damages
-- Costs, and fees, including attorneys' fees 
-- Exemplary damages of $5000 per day 
+* Equitable relief
+* Compensatory damages
+* Costs, and fees, including attorneys' fees
+* Exemplary damages of $5000 per day
 
 *** 
 
@@ -59,17 +69,17 @@ Codify holding in _Food Lion, Inc. v. Capital Cities/ABC, Inc_., 194 F. 3d 505 (
 
 *** 
 
-### Food Lion: Facts 
+### Food Lion
 
-- Reporters took jobs with Food Lion and made undercover recordings as part of expose. 
-- Food Lion sued reporters for breach of employee duty of loyalty 
+- Reporters took jobs with Food Lion and made undercover recordings as part of expose
+- Food Lion sued reporters for breach of employee duty of loyalty
 - Jury awarded $1 in damages
 
 *** 
 
-### Food Lion: Holding 
+### Food Lion
 
-By secretly recording business operations to expose unsanitary and deceptive practices, while acting as employees, the reporters "did not serve Food Lion faithfully, and their interest ... was diametrically opposed to Food Lion's"
+By secretly recording business operations to expose unsanitary and deceptive practices, while acting as employees, the reporters "did not serve Food Lion faithfully, and their interest ... was diametrically opposed to Food Lion's".
 
 *** 
 
@@ -84,6 +94,14 @@ _Dalton v. Camp_, 353 N.C. 647 (2001)
 
 *** 
 
+## Labor Pre-Emption 
+
+State law may not regulate any activity that is arguably protected or prohibited under the NLRA.
+
+_Machinists v. Wisconsin Employment Relations Commn._, 427 U.S. 132 1976); _San Diego Building Trades Council v. Garmon_, 359 U.S. 236 (1959)
+
+*** 
+
 ## Protected Concerted Activity 
 
 > Employees shall have the right to self-organization, to form, join, or assist labor organizations, to bargain collectively through representatives of their own choosing, and to engage in other concerted activities for the purpose of collective bargaining or other mutual aid or protection ... 
@@ -94,7 +112,7 @@ National Labor Relations Act, § 7
 
 ### Protected 
 
-It is an unfair labor practice for an employer "to interfere with, restrain, or coerce employees in the exercise of the rights guaranteed in section 7"
+It is an unfair labor practice for an employer "to interfere with, restrain, or coerce employees in the exercise of the rights guaranteed in section 7".
 
 NLRA, § 8(a)(1)
 
@@ -107,34 +125,44 @@ NLRA, § 8(a)(1)
 
 *** 
 
-## Labor Pre-Emption 
-
-State law may not regulate any activity that is arguably protected or prohibited under the NLRA
-
-_Machinists v. Wisconsin Employment Relations Commn._, 427 U.S. 132 1976); _San Diego Building Trades Council v. Garmon_, 359 U.S. 236 (1959)
-
 # Pre-Emption & the NC PPA 
 
 *** 
 
 ## Conflict with Federal Labor Law 
 
-The conduct subject to liability under the NC Property Protection Act includes employee activity protected under the NLRA 
+The conduct subject to liability under the NC Property Protection Act includes employee activity protected under the NLRA .
 
 *** 
 
 ### Workplace Recording & Data Collection 
 
-- Recording conditions in the workplace for the purpose of mutual aid and protection is protected
-- Broad employer policies against unauthorized recording are unlawful
+Recording conditions in the workplace for the purpose of mutual aid and protection is protected.
+
+*** 
+
+### Workplace Recording & Data Collection 
+
+Broad employer policies against unauthorized recording are unlawful.
 
 *** 
 
 ### Salting 
 
-- Union members take jobs at non-union workplaces with the aim of organizing the employees
-- May be overt or covert 
-- Statutory protections under the NLRA apply to union salts if they are "genuinely interested in seeking to establish an employment relationship with the employer" 
+Union members take jobs at non-union workplaces with the aim of organizing the employees. 
+
+
+*** 
+
+### Salting 
+
+Salting may be overt (the salt discloses their union affiliation when they apply) or covert (the conceal their union affiliation).
+
+*** 
+
+### Salting 
+
+Statutory protections under the NLRA apply to union salts (whether overt or covert) if they are "genuinely interested in seeking to establish an employment relationship with the employer". 
  
 _NLRB v. Town & Country Elec., Inc_., 516 U.S. 85 (1995); _Toering Electric Co._, 351 N.L.R.B. 225 (2007) 
 
@@ -144,11 +172,15 @@ _NLRB v. Town & Country Elec., Inc_., 516 U.S. 85 (1995); _Toering Electric Co._
 
 NLRA pre-emption will apply to a PPA suit based on protected concerted employee activity. 
 
+*** 
+
+## Pre-Emption of PPA Suits 
+
 Because the NLRB has exclusive original jurisdiction to determine whether activity is protected, state courts may not decide that question in a PPA suit. 
 
 *** 
 
-## Unfair Labor Practice 
+### Unfair Labor Practice 
 
 It is an unfair labor practice for an employer to maintain a state court lawsuit against an employee or union for protected concerted activity. 
 
