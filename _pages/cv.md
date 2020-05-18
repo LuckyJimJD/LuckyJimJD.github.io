@@ -14,7 +14,7 @@ web: emfink.net/ElonLaw
 output: 
   pdf_document:
     latex_engine: xelatex
-    template: vita.latex
+    template: vita.tex
   
 ---
 
