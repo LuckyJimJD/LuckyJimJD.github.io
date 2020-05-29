@@ -5,23 +5,20 @@
 
 // Fonts 
 $serif-font: 'Cormorant Garamond','Garamond','Hoefler Text',serif !default;
-$sans-font: Lato,Helvetica, Verdana, sans-serif !default;
+$sans-font:  'Proza Libre',Lato,Helvetica, Verdana, sans-serif !default;
 $monospace-font: 'Cousine', 'Source Code Pro', Consolas, monospace !default;
 $body-font: $sans-font;
 $heading-font: $sans-font;
 $heading-font: 'Proza Libre',Lato,Helvetica, Verdana, sans-serif !default;
 $code-font: $monospace-font;
 
-
-
 // Font Sizes & Weights 
 
 $base-font-size: 16px !default;
 $small-font-size:  0.875rem !default;
-$page-title: 3.3rem !default;
-$post-title: 3.3rem !default;
+$title-size: 3.4rem !default;
 $post-description: 2rem !default;
-$h1: 2.4rem !default;
+$h1: 2.6rem !default;
 $h2: 2rem !default;
 $h3: 1.6rem !default;
 $h4: 1.3rem !default;
@@ -96,7 +93,7 @@ $darken-2:          rgba(#000,.125) !default;
 $darken-3:          rgba(#000,.25) !default;
 $darken-4:          rgba(#000,.5) !default;
 
-$theme-color:       $blue-1;
+$theme-color:       $grey-green;
 $code-color:        $medium-grey;
 $text-color:        $off_black;
 $background-color:  $off-white;

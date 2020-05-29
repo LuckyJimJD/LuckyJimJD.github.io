@@ -31,7 +31,7 @@
 
 .profile h1 {
     font-size: 1.6rem;
-    color: white;
+    color: $off-white;
     line-height: 1;
     margin: 0 0 1rem 0;
     text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
@@ -39,7 +39,8 @@
 
 .profile h2 {
     font-size: 1.2rem;
-    color: white;
+	font-weight: 300;
+    color: $off-white;
     line-height: 1;
     margin: 0 0 2rem 0;
     text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
@@ -48,7 +49,7 @@
 .profile h3 {
     font-size: .9rem;
     line-heightt: 1;
-    color: white;
+    color: $off-white;
     margin: 0 0 0 0;
     text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
 }
@@ -59,7 +60,7 @@
 
 .profile h4 {
     font-size: .8rem;
-    color: white;
+    color: $off-white;
     line-height: 1;
     margin: 0 0 0 0;
     text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
@@ -116,7 +117,7 @@ and (min-device-width:770px){
 
     .profile h2 {
         font-size: 1.6rem;
-        margin: 0 0 6rem 0;
+        margin: 0 0 3rem 0;
     }
 
     .profile h3 {
@@ -138,7 +139,7 @@ and (min-device-width:770px){
     }
 
     .social {
-        margin-top: 3rem;
+        margin-top: 2rem;
     }
 
     .list-inline {

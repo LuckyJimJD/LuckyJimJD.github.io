@@ -3,15 +3,13 @@ url: https://www.emfink.net # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 title: Eric M. Fink
 description:  # leave blank if you don't want to display a description 
-last_updated: 5 March 2020 # leave blank if you don't want to display last updated
+last_updated: 29 May 2020 # leave blank if you don't want to display last updated
 
-author: Eric M. Fink
+name: Eric M. Fink
 city: Greensboro
 state: North Carolina
 email: emfink@gmail.com
-
-footer_text: 
-
+phone: 336-279-9334
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -26,9 +24,7 @@ exclude: [vendor]
 
 # Plug-ins
 plugins:
-    - jekyll-email-protect
     - jekyll-paginate
-    - jekyll/scholar
     - jemoji
 
 # -----------------------------------------------------------------------------

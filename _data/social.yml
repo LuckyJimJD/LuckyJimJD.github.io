@@ -2,11 +2,6 @@
   url: 'mailto:emfink@gmail.com'
   label: Email
 
-- title: ai ai-cv
-  url: /cv/
- 
-  label: CV
-
 - title: fa fa-briefcase
   url: https://www.emfink.net/ElonLaw
   label: Work
