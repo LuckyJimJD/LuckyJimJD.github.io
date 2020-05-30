@@ -6,7 +6,7 @@ title: Home
 social: true
 ---
 
-# {{ site.author }}
+# {{ site.title }}
 ## {{ site.city }}, {{ site.state }} 
 
 [I'm tired and I'm hungry and I'm looking for my youth, \\
