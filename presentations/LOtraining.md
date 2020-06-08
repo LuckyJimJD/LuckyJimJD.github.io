@@ -13,20 +13,10 @@ output:
     
 ---
 
-# Legal Observer Training
-
-## National Lawyers Guild
-
-## North Carolina Chapter
-
-
-*** 
-
 # The National Lawyers Guild
 
-Founded in 1937 as the nation’s first racially integrated bar association.
-
-Involved in many landmark cases and activities integral in building the grassroots movements necessary to protect civil liberties and human rights.
+- Founded in 1937 as the nation’s first racially integrated bar association
+- Involved in many landmark cases and activities integral in building the grassroots movements necessary to protect civil liberties and human rights
 
 *** 
 
@@ -48,10 +38,9 @@ Involved in many landmark cases and activities integral in building the grassroo
 
 ## What LOs Do 
 
-Observe and document police conduct at demonostrations
-
-- To deter violations of constitutional rights and other misconduct by police 
-- To assist lawyers representing participants facing criminal charges or bringing civil suits
+- Observe and document police conduct at demonstrations
+	- To deter violations of constitutional rights and other misconduct by police 
+	- To assist lawyers representing participants facing criminal charges or bringing civil suits
 
 *** 
 
@@ -70,7 +59,7 @@ Observe and document police conduct at demonostrations
 
 ## Confidentiality of LO Material 
 
-- Treat all information obtained while serving as a LO is confidential
+- Treat all information obtained while serving as a legal observer as confidential
 - Information may be protected as attorney work-product
 	- Material created or compiled by an attorney or someone working for them in anticipation of or preparation for legal representation
 	- Often (but not always) there will be an attorney (usually not on site) designated for this purpose
@@ -144,7 +133,7 @@ The size and organization of the LO team may vary depending on size & location o
 
 *** 
 
-# What to Bring 
+## What to Bring 
 
 - Green NLG Legal Observer hat
 - Notepad (pocket-sized) and pencils/pens
@@ -158,11 +147,19 @@ The size and organization of the LO team may vary depending on size & location o
 
 *** 
 
+## What to Wear 
+
+- Comfortable clothes and shoes 
+- No clothing, buttons, or other items with political insignia or messages
+- The goal is not to draw attention to yourself, other than the green NLG Legal Observer hat 
+
+*** 
+
 ## Additional Equipment for Covid-19 Precaution
 
 - Masks
-	- If possible, bring extra. 
-	- If tear gas/pepper spray is used, you will want to change your mask.
+	- If possible, bring extra
+	- If tear gas/pepper spray is used, you will want to change your mask
 - Goggles
 	- With seal to keep out tear gas/pepper spray
 	- You can use swimming goggles for this purpose 
@@ -185,7 +182,7 @@ The size and organization of the LO team may vary depending on size & location o
 ## Be Familiar With Applicable Law 
 
 - Past cases involving police misconduct and civil rights violations specific to your jurisdiction.
-- Potentially unconstitutional police tactics.
+- Potentially unconstitutional police tactics
 	- “Pop-up” police lines, denial of access to public forum, intimidating displays of force, etc. 
 - Potential criminal charges & defenses 
 	- Common charges: Disorderly conduct, resisting arrest, etc. 
@@ -212,7 +209,7 @@ The size and organization of the LO team may vary depending on size & location o
 
 ***
 
-## Other Information 
+## Participants & Others Present 
 
 - Location of action, route of march
 - Number of participants
@@ -222,48 +219,37 @@ The size and organization of the LO team may vary depending on size & location o
 
 *** 
 
-# Documenting Arrests
+## Information About Arrests 
 
-*** 
-
-## Information About Those Arrested 
-
-- Name & date of birth (if possible)
+- Name (and date of birth if possible) of those arrested
 	- If you can't get names, note description (appearance, clothing, etc.)
 - Injuries 
-
-## Police Conduct 
-
 - Identity and agency of arresting officer(s) 
-- Use of force/weapons 
-- Warnings given prior to arrest
+- Police conduct before and during arrests:
+	- Use of force/weapons 
+	- Warnings given
 
 *** 
 
-# Documenting Other Law Enforcement Conduct 
+## Other Law Enforcement Conduct 
 
 - Orders to disperse
 - Restrictions on demonstrator movement 
 	- Preventing access to public forum (park, plaza, sidewalks)
-	- Pop-up lines: Misdirecting demonstrators, splitting demonstrators up, or detaining/arresting segments.
-	- Kettling: Corraling demonstrators in location with no ability to leave 
-- Displays of force 
+	- Pop-up lines
+	- Kettling
+- Aggressive Displays or Threats
 	- Banging on riot shields; aiming pepper spray; thumping batons; verbal threats
 - Use of weapons/equipment against demonstrators 
-	- Firing guns or "less than lethal" rounds; tasers; tear gas/pepper spray; LRAD ("sound cannon"); batons, bicycles, or other objects used to hit demonstrators
 - Assaults on demonstrators
-	- Punching, kicking, shoving, choke holds, etc. 
 
 *** 
 
 # Interacting with Police
 
-In most cases, there will be no need to interact or communicate directly with the police. 
-
-Communication with police may be required to ascertain information about police orders, arrests, etc. 
-
-When speaking with police, remain calm and non-argumentative. 
-
+- In most cases, there will be no need to interact or communicate directly with the police
+- Communication with police may be required to ascertain information about police orders, arrests, etc. 
+- When speaking with police, remain calm and non-argumentative
 
 *** 
 
@@ -298,11 +284,11 @@ When speaking with police, remain calm and non-argumentative.
 
 *** 
 
-# Some Common Scenarios 
+# Arrests 
 
 *** 
 
-## Scenario 1: Planned Civil Disobedience
+## Planned Civil Disobedience
 
 - Try to get names and dates-of-birth of those planning to be arrested ahead of time
 - Notify on-site LO Coordinator or off-site Legal Hub immediately of planned civil disobedience if they are not already aware
@@ -311,17 +297,17 @@ When speaking with police, remain calm and non-argumentative.
 
 *** 
 
-## Scenario 2: Mass Arrest
+## Mass Arrest
 
-- To the extent possible, try to avoid being arrested yourself. 
-	- You are not useful as an LO if you are arrested. 
-- Before effecting a mass arrest, _police are supposed to give at least one warning_, indicating how long people have to disperse before arrests will commence. 
+- To the extent possible, try to avoid being arrested yourself
+	- You are not useful as an LO if you are arrested 
+- Before effecting a mass arrest, _police are supposed to give at least one warning_, indicating how long people have to disperse before arrests will commence
 - Document this warning:
 	- Time(s) it is given and repeated
 	- Exact wording
 	- Manner of delivery (e.g. shouted, bullhorn, etc.) and audibility 
 	- Any other orders given 
-- If you _don’t_ hear this kind of warning before there are mass arrests, make a note of that fact. 
+- If you _don’t_ hear this kind of warning before there are mass arrests, make a note of that fact
 
 *** 
 
@@ -333,129 +319,47 @@ When speaking with police, remain calm and non-argumentative.
 - Police from other agencies suddenly appear in large numbers
 - Empty buses arrive with no route on the from banner
 
+*** 
+
+## If There Are Arrests 
+
+- Ask police where those arrested will be taken 
+- The LO Coordinator or Legal Hub may ask you to go to the police station to find out about charges and when protestors will be released
+- Get names of those arrested and of any witnesses to the arrest
+- Let legal support team, attorney on call, or public defender's office know about arrests
 
 *** 
 
-# After the Action
+# At the End of the Action 
 
-- The on-site LO Coordinator or another NLG member will collect all notes, photos, videos, etc. from the action
-- You should also keep copies of your notes, photos, videos, etc. on your personal computer or a flash drive in case they are needed. 
+- Check in with the on-site Coordinator before leaving
+
+*** 
+
+## After the Action
+
+- Review your notes and fill in any missing information
+- The on-site LO Coordinator or another designated individual will collect all notes, photos, videos, etc. from the action
+- You should also keep copies in a secure location 
 	- Do not back up or store on insecure cloud services (e.g. Google Drive, Dropbox, etc.) 
-- There may also be a follow-up (by phone, Zoom, etc.) to debrief. 
-- In case of arrests or a civil action on behalf of demonstrators, lawyers representing demonstrators may communicate with you as a potential witness. 
+- There may also be a follow-up discussion to debrief
 
-*** 
-
-
-*** 
-
-# Method: Legal Observing Basics Recap
-
-
-- Dress and Actions
-- Visibility
-- Teamwork
-- Objectivity
-- Interacting with Police
-
-*** 
-
-# Dress and Actions
-
-
-- Avoid wearing clothes or buttons with political slogans
-- Dress comfortably but conservatively (wear comfortable shoes)
-- Maintain a calm but assertive demeanor
-- Act professionally
-- Remember to bring special protection during the pandemic
-
-*** 
-
-# Visibility
-
-
-- Your goal is to be visible to both activists and police
-- Wear identifying clothing (Legal Observer hats)
-- Announce presence to activists and note identifying clothing
-- Maintain central presence, if possible
-
-*** 
-
-
-*** 
-
-# During the Demonstration (Continued)
-
-
-Stay vigilant
-
-- Undercover police
-- Civil disobedience
-- Instigators
-- Counter-protestors
-- Hate groups
-
-
-*** 
-
-# If People are Arrested
-
-
-- Ask police where person is being taken
-- If directed to, go to appropriate precinct and talk to desk
-    Sergeant, ask about charges and when protestors will be released
-- Get arrestee’s name, names and phone numbers for surrounding
-    witnesses
-- Deal with addresses and statements later if needed
-- Make sure legal team, attorneys on call, legal aid, *somebody* knows
-    about arrest
-
-*** 
-
-# At the End of the Day
-=
-
-Check in with your Coordinator to
----------------------------------
-
-- Sign out
-- Find out if you’re needed to go to a precinct or convergence center
-- Reflect on your notes, fill in any missing information, hand over
-    any notes or evidence you’ve collected to the Record Keeper
 
 *** 
 
 # Next Steps
 
+- Give your signed Confidentiality Agreement to the training facilitator or email it to the NC NLG ("Contact Info" below)
+- Once you have completed the training and submitted your signed Confidentiality Agreement, you will be invited to the NC LO Listerv
+	- You need to **opt in** to the Listserv
+- Requests for LOs from across the state are posted on the Listserv 
+- _Do not_ post notes, information about arrests, or other details about actions on the Listserv
 
-If you have not already turned in your **Confidentiality Agreement**,
-please do so
-
-Once we have that, trained LOs will be invited to the **NC LO Listerv**
-
-- Please check your junk folder and if you do not receive an
-    invitation within a day or two, let us know
-- You need to “**opt in**” to listserv
-
-Calls for LOs will go through Listserv from across the state
-
-If you know of a need or have other LO info you’d like to share, please
-do so
-
-- However, **DO NOT**post information about arrests or other
-    confidential matters through that Listserv
-
-Please consider becoming a Guild Member: NLG.org
-
-
-*** 
-
-_Thank you for volunteering to be an LO. We couldn’t do this work without you_
 
 *** 
 
 # Contact Info
 
-Northcarolina.nlg.org
+northcarolina@nlg.org
 
-Southernrvp@nlg.org
+southernrvp@nlg.org
