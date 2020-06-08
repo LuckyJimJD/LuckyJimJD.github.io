@@ -1,0 +1,40 @@
+/**
+ * A simple theme for reveal.js presentations, similar
+ * to the default theme. The accent color is brown.
+ *
+ * This theme is Copyright (C) 2012-2013 Owen Versteeg, http://owenversteeg.com - it is MIT licensed.
+ */
+
+
+// Default mixins and settings -----------------
+@import "../template/mixins";
+@import "../template/settings";
+// ---------------------------------------------
+
+// Google Fonts --------------------------------
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Proza+Libre:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
+// ---------------------------------------------
+
+
+
+// Override theme settings (see ../template/settings.scss)
+$mainFont: 'Cormorant Garamond', serif;
+$mainColor: #000;
+$headingFont: 'Proza Libre', sans-serif;
+$headingColor: #383D3D;
+$headingTextShadow: none;
+$headingTextTransform: none;
+$backgroundColor: #F0F1EB;
+$linkColor: #51483D;
+$linkColorHover: lighten( $linkColor, 20% );
+$selectionBackgroundColor: #26351C;
+
+.reveal a {
+  line-height: 1.3em;
+}
+
+
+// Theme template ------------------------------
+@import "../template/theme";
+// ---------------------------------------------
