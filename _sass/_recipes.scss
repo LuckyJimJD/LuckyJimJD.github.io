@@ -47,35 +47,31 @@
 }
 
 .recipe h1 {
-  font-size: $h1;
+  font-size: $h2;
 }
 
 .recipe h2 {
 	font-family: $serif-font; 
-	font-size: $h2;
+	font-size: $h3;
 	font-style: italic;
-	font-weight: 700;
 }
 
 .recipe h3 {
 	font-family: $serif-font; 
-	font-size: $h3;
+	font-size: $h4;
 	font-style: italic;
-	font-weight: 700;
 }
 
 .recipe h4 {
 	font-family: $serif-font; 
-	font-size: $h4;
+	font-size: $h5;
 	font-style: normal;
-	font-weight: 400;
 }
 
 .recipe h5 {
 	font-family: $serif-font; 
 	font-size: $h5;
 	font-style: italic;
-	font-weight: 400;
 }
 
 .recipe-meta {
