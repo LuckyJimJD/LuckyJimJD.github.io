@@ -1,16 +1,17 @@
 .recipe p {
     font-size: 1em;
+	color: $text-color; 
 }
 
 .recipe-header {
 	margin-top: 0;
-    margin-bottom: 4rem;
+    margin-bottom: 0rem;
 }
 
 .recipe-title {
     color: $dark_red;
     font-family: $heading-font; 
-    font-size: $post-title;
+    font-size: $h1;
     font-style: normal;
     line-height: 1;
     margin-top: 0;
@@ -86,6 +87,27 @@
     line-height: 1;
     margin-bottom: 2rem;
     margin-top: 0;
+}
+
+
+.recipe h1 {
+  font-size: $h1;
+}
+
+.recipe h2 {
+  font-size: $h3;
+}
+
+.recipe h3 {
+  font-size: $h4;
+}
+
+.recipe h4 {
+  font-size: $h4;
+}
+
+.recipe h5 {
+  font-size: $h5;
 }
 
 .recipe-meta {
