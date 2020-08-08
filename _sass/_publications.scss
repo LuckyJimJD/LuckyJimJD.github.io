@@ -3,15 +3,16 @@
         color: $theme-color;
         // border-bottom: 1px solid $theme-color;
         // border-top: 1px solid $theme-color;
-        font-size: 32px;
+        font-size: $h2;
         margin-bottom: 30px;
         // padding: 20px 0;
         text-align: center;
     }
 }
+
 .year {
-    border-top: 1px solid $light-gray;
-    color: $light-gray;
+    border-top: 1px solid $light-grey;
+    color: $light-grey;
     margin: 0 -3em -2.5ex -2em;
     padding-top: 1ex;
     text-align: right;
@@ -74,7 +75,7 @@
             border: dashed 1px $background-color;
         }
         span.abstract.hidden.open {
-            border-color: $grey-color;
+            border-color: $grey;
         }
     }
     abbr {

@@ -4,9 +4,9 @@
     }
 }
 
-@media screen and (min-width: $viewport-small) {
+@media screen and (max-width: $viewport-small) {
     html {
-        font-size: 16px;
+        font-size: $small-size;
     }
 
   h1,
@@ -23,11 +23,11 @@
   }
 
   .site-header a {
-    font-size: $h4;
+    font-size: $h3;
   }
 
   .site-header .site-title {
-    font-size: $h3;
+    font-size: $h2;
     float: left;
   }
 
@@ -36,8 +36,8 @@
   }
 
   blockquote {
-    margin-left: $space-3;
-    padding: $space-3;
+    margin-left: 2rem;
+    padding: 2rem;
   }
 
   .social-icons-left {
@@ -57,7 +57,7 @@
 
 @media screen and (min-width: $viewport-medium) {
   html {
-    font-size: 18px;
+    font-size: $medium-size;
   }
   .img_row {
      height: $img-height/1.5;
@@ -69,7 +69,7 @@
 
 @media screen and (min-width: $viewport-large) {
   html {
-    font-size: 20px;
+    font-size: $large-size;
   }
   .img_row {
      height: $img-height;
@@ -79,9 +79,12 @@
   }
 }
 
+/*!
 @media screen and (min-width: $viewport-large + 14) {
   em img {
     max-width: $measure-width + 14;
     margin-left: -7em;
   }
 }
+*/
+
