@@ -62,21 +62,15 @@
 
 @media screen and (min-width: 640px)  and (max-width: 768px) {
     .bookmark {
-        height: 150px;
         width: 33.33%;
 
         .thumbnail {
-            height: 120px;
             width: 100%;
 
             img {
-                height: auto;
                 width: 100%;
             }
             a {
-                float: left;
-                height: 130px;
-                position: relative;
                 width: 100%;
 
                 span {
@@ -94,22 +88,15 @@
 
 @media screen and (min-width: 768px) and (max-width: 900px) {
     .bookmark {
-        height: 150px;
-        padding: 10px;
         width: 25%%;
 
         .thumbnail {
-            height: 130px;
             width: 100%;
 
             img {
-                height: auto;
                 width: 100%;
             }
             a {
-                float: left;
-                height: 140px;
-                position: relative;
                 width: 100%;
 
                 span {
@@ -127,22 +114,15 @@
 
 @media (min-width: 900px){
     .bookmark {
-        height: 185px;
-        padding: 10px;
         width: 20%;
 
         .thumbnail {
-            height: 165px;
             width: 100%;
 
             img {
-                height: auto;
                 width: 100%;
             }
             a {
-                float: left;
-                height: 175px;
-                position: relative;
                 width: 100%;
 
                 span {
