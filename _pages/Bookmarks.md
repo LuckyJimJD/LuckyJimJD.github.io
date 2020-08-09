@@ -6,16 +6,14 @@ title: Bookmarks
 
 {% for bookmark in site.data.bookmarks %}
 
-<div class="bookmarks">
+<div class="bookmark">
 <div class="thumbnail">
 <a href="https://{{ bookmark.url }}">
 <span>
-<h1>{{ bookmark.title }}</h1>
+<h4>{{ bookmark.title }}</h4>
 </span>
 </a>
 </div>
 </div>
 
 {% endfor %}
-
-

@@ -6,7 +6,7 @@ title: Work
 
 {% for class in site.data.classes %}
 
-<div class="project ">
+<div class="project">
 <div class="thumbnail">
 <a href="https://{{ class.url }}">
 <span>
