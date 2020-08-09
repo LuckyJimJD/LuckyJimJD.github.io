@@ -1,0 +1,36 @@
+- title: Gmail
+  url: 'https://mail.google.com/mail/'
+  img: Elon.png
+
+- title: Outlook
+  url: 'https://outlook.office.com/owa/'
+  img: Teaching.png
+
+- title: Calendar
+  url: 'https://calendar.google.com/calendar/r'
+  img: CivilProcedure.png
+
+- title: Google Drive
+  url: '(https://drive.google.com/drive/my-drive'
+  img: ProfessionalResponsibility.png
+
+- title: Google Scholar
+  url: '(https://scholar.google.com/'
+  img: ConsumerProtection.png
+
+- title: GitHub
+  url: 'https://github.com/LuckyJimJD'
+  img: EmploymentLaw.png
+
+- title: Zotero
+  url: 'https://www.zotero.org/emfink/items'
+  img: EmploymentLaw.png
+
+- title: Statcounter
+  url: 'https://statcounter.com/'
+  img: EmploymentLaw.png
+
+- title: Recipes
+  url: 'https://www.emfink.net/Recipes/'
+  img: EmploymentLaw.png
+

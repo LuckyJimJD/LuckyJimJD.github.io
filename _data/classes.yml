@@ -1,0 +1,24 @@
+- title: Elon Law
+  url: https://www.elon.edu/e/law/index.html
+  img: Elon.png
+
+- title: Teaching
+  url: '{{ site.url }}/Teaching'
+  img: Teaching.png
+
+- title: Civil Procedure
+  url: '{{ site.url }}/CivilProcedure'
+  img: CivilProcedure.png
+
+- title: Professional Responsibility
+  url: '{{ site.url }}/ProfessionalResponsibility'
+  img: ProfessionalResponsibility.png
+
+- title: Consumer Protection
+  url: '{{ site.url }}/ConsumerProtection'
+  img: ConsumerProtection.png
+
+- title: Employment Law
+  url: '{{ site.url }}/EmploymentLaw'
+  img: EmploymentLaw.png
+
