@@ -1,15 +1,14 @@
 ---
 layout: page
-permalink: /teaching/
-title: Teaching
+permalink: /work/
+title: Work
 ---
 
 {% for class in site.data.classes %}
 
 <div class="project ">
 <div class="thumbnail">
-<a href="{{ class.url }}">
-<img class="thumbnail" src="{{ site.baseurl }}/assets/img/work/{{ class.img }}" alt="{{ class.title }}" size="100%" />
+<a href="https://{{ class.url }}">
 <span>
 <h1>{{ class.title }}</h1>
 </span>

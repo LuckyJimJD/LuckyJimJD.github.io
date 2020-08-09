@@ -1,24 +1,26 @@
-- title: Elon Law
-  url: https://www.elon.edu/e/law/index.html
-  img: Elon.png
-
 - title: Teaching
-  url: '{{ site.url }}/Teaching'
-  img: Teaching.png
+  url: 'www.emfink.net/Teaching'
 
 - title: Civil Procedure
-  url: '{{ site.url }}/CivilProcedure'
-  img: CivilProcedure.png
+  url: 'www.emfink.net/CivilProcedure'
 
 - title: Professional Responsibility
-  url: '{{ site.url }}/ProfessionalResponsibility'
-  img: ProfessionalResponsibility.png
+  url: 'www.emfink.net/ProfessionalResponsibility'
 
 - title: Consumer Protection
-  url: '{{ site.url }}/ConsumerProtection'
-  img: ConsumerProtection.png
+  url: 'www.emfink.net/ConsumerProtection'
 
 - title: Employment Law
-  url: '{{ site.url }}/EmploymentLaw'
-  img: EmploymentLaw.png
+  url: 'www.emfink.net/EmploymentLaw'
 
+- title: Cause Lawyering
+  url: CauseLawyering
+
+- title: Labor Law
+  url: LaborLaw
+
+- title: Westlaw
+  url: 'lawschool.westlaw.com/'
+
+- title: Belk Library
+  url: 'www.elon.edu/u/library/'

@@ -1,36 +1,29 @@
 - title: Gmail
-  url: 'https://mail.google.com/mail/'
-  img: Elon.png
+  url: 'mail.google.com/mail/'
 
 - title: Outlook
-  url: 'https://outlook.office.com/owa/'
-  img: Teaching.png
+  url: 'outlook.office.com/owa/'
 
 - title: Calendar
-  url: 'https://calendar.google.com/calendar/r'
-  img: CivilProcedure.png
+  url: 'calendar.google.com/calendar/r'
 
 - title: Google Drive
-  url: '(https://drive.google.com/drive/my-drive'
-  img: ProfessionalResponsibility.png
+  url: '(drive.google.com/drive/my-drive'
 
-- title: Google Scholar
-  url: '(https://scholar.google.com/'
-  img: ConsumerProtection.png
+- title: Elon Law
+  url: www.elon.edu/e/law/index.html
+
+- title: Teaching
+  url: 'www.emfink.net/teaching/'
 
 - title: GitHub
-  url: 'https://github.com/LuckyJimJD'
+  url: 'github.com/LuckyJimJD'
   img: EmploymentLaw.png
 
-- title: Zotero
-  url: 'https://www.zotero.org/emfink/items'
-  img: EmploymentLaw.png
-
-- title: Statcounter
-  url: 'https://statcounter.com/'
+- title: Google Scholar
+  url: 'www.emfink.net/bookmarks/(https://scholar.google.com/'
   img: EmploymentLaw.png
 
 - title: Recipes
-  url: 'https://www.emfink.net/Recipes/'
-  img: EmploymentLaw.png
+  url: 'www.emfink.net/Recipes/'
 
