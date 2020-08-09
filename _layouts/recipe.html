@@ -15,6 +15,10 @@ layout: no_foot
     		<a class="recipe-link" href="https://{{ page.source }}/">Source: <span class="recipe-source">{{ page.source }}</span></a>
 			{% endif %}
 
+			{% if page.image %}
+    		<img class="recipe-header" src="{{ site.baseurl }}/assets/img/{{ page.image }}.png"  alt="">
+			{% endif %}
+
 		</header>
 
 		<article class="post-content {{page.title}} clearfix">
