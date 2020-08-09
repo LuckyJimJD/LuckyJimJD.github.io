@@ -10,32 +10,17 @@
 - title: Google Drive
   url: 'drive.google.com/drive/my-drive'
 
-- title: Recipes
-  url: 'www.emfink.net/Recipes/'
-
 - title: Notion 
   url: 'www.notion.so/luckyjimjd'
 
 - title: Pocket 
   url: 'app.getpocket.com/'
 
+- title: GitHub
+  url: 'github.com/LuckyJimJD'
+
 - title: BLANK 
   url: 'www.emfink.net'
-
-- title: Civil Procedure
-  url: 'www.emfink.net/CivilProcedure'
-
-- title: Professional Responsibility
-  url: 'www.emfink.net/ProfessionalResponsibility'
-
-- title: Consumer Protection
-  url: 'www.emfink.net/ConsumerProtection'
-
-- title: Employment Law
-  url: 'www.emfink.net/EmploymentLaw'
-
-- title: Teaching
-  url: 'www.emfink.net/Teaching'
 
 - title: Elon Law
   url: www.elon.edu/e/law/index.html
@@ -49,14 +34,3 @@
 - title: Westlaw
   url: 'lawschool.westlaw.com/'
 
-- title: GitHub
-  url: 'github.com/LuckyJimJD'
-
-- title: Geni
-  url: 'www.geni.com/home'
-
-- title: Family Search 
-  url: 'www.familysearch.org/en/'
-
-- title: Jewish Gen 
-  url: 'www.jewishgen.org/'
