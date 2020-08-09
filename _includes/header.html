@@ -36,7 +36,7 @@
         <a class="page-link" href="{{ '/syllabus/' | prepend: site.baseurl | prepend: site.url }}">Syllabus</a> -->
         
         {% for page in site.data.pages %}
-            <a class="page-link" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">{{ page.title }}</a>
+            <a class="page-link" href="{{ page.url | prepend: site.url }}">{{ page.title }}</a>
         {% endfor %}
         
         

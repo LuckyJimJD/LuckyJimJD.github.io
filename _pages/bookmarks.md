@@ -10,7 +10,7 @@ title: Bookmarks
 
 <div class="project ">
 <div class="thumbnail">
-<a href="{{ bookmark.url }}">
+<a href="{{ site.url }}/{{ bookmark.url }}">
 <span>
 <h1>{{ bookmark.title }}</h1>
 </span>
