@@ -1,0 +1,159 @@
+.bookmark {
+      box-sizing: border-box;
+      float: left;
+      height: 6rem;
+      padding: .5rem;
+      vertical-align: middle;
+      width: 50%;
+
+    .thumbnail {
+        overflow: hidden;
+        height: 5rem;
+        width: 100%;
+		background-color: $link-color;
+
+        img {
+            height: auto;
+            position: relative;
+            left: 0;
+            top: 0;
+            width: 100%;
+        }
+
+        a {
+            float: left;
+            height: 5rem;
+            position: relative;
+            width: 100%;
+			background-color: $link-color;
+
+            span {
+                display: block;
+                position: absolute;
+                top: 0;
+                left: 0;
+                bottom: 0;
+                right: 0;
+                background: rgba(0,0,0,0.4);
+                padding: 0 0 0 0;
+                text-align: center;
+
+                h1 {
+                    font-size: $h3;
+                    margin: 5% 0 0 0;
+                    color: $off-white;
+                    text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
+                }
+
+                p {
+                    color: $off-white;
+                }
+            }
+
+            &:hover {
+                span {
+                    display: block;
+					background-color: $link-hover-color;
+                }
+            }
+        }
+    }
+  }
+
+@media screen and (min-width: 640px)  and (max-width: 768px) {
+    .bookmark {
+        height: 150px;
+        width: 33.33%;
+
+        .thumbnail {
+            height: 120px;
+            width: 100%;
+
+            img {
+                height: auto;
+                width: 100%;
+            }
+            a {
+                float: left;
+                height: 130px;
+                position: relative;
+                width: 100%;
+
+                span {
+                    padding: 0 5% 0 5%;
+
+                    h1 {
+                        margin: 5% 0 0 0;
+                    }
+
+                }
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 900px) {
+    .bookmark {
+        height: 150px;
+        padding: 10px;
+        width: 25%%;
+
+        .thumbnail {
+            height: 130px;
+            width: 100%;
+
+            img {
+                height: auto;
+                width: 100%;
+            }
+            a {
+                float: left;
+                height: 140px;
+                position: relative;
+                width: 100%;
+
+                span {
+                    padding: 0 5% 0 5%;
+
+                    h1 {
+                        margin: 5% 0 0 0;
+                    }
+
+                }
+            }
+        }
+    }
+}
+
+@media (min-width: 900px){
+    .bookmark {
+        height: 185px;
+        padding: 10px;
+        width: 20%;
+
+        .thumbnail {
+            height: 165px;
+            width: 100%;
+
+            img {
+                height: auto;
+                width: 100%;
+            }
+            a {
+                float: left;
+                height: 175px;
+                position: relative;
+                width: 100%;
+
+                span {
+                    padding: 0 5% 0 5%;
+
+                    h1 {
+                        margin: 5% 0 0 0;
+                    }
+
+                }
+            }
+        }
+    }
+}

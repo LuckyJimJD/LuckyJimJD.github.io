@@ -8,20 +8,37 @@
   url: 'calendar.google.com/calendar/r'
 
 - title: Google Drive
-  url: '(drive.google.com/drive/my-drive'
-
-- title: Elon Law
-  url: www.elon.edu/e/law/index.html
-
-- title: Teaching
-  url: 'www.emfink.net/Work/'
-
-- title: GitHub
-  url: 'github.com/LuckyJimJD'
-
-- title: Google Scholar
-  url: 'www.emfink.net/bookmarks/(https://scholar.google.com/'
+  url: 'drive.google.com/drive/my-drive'
 
 - title: Recipes
   url: 'www.emfink.net/Recipes/'
 
+- title: Civil Procedure
+  url: 'www.emfink.net/CivilProcedure'
+
+- title: Professional Responsibility
+  url: 'www.emfink.net/ProfessionalResponsibility'
+
+- title: Consumer Protection
+  url: 'www.emfink.net/ConsumerProtection'
+
+- title: Employment Law
+  url: 'www.emfink.net/EmploymentLaw'
+
+- title: Teaching
+  url: 'www.emfink.net/Teaching'
+
+- title: Elon Law
+  url: www.elon.edu/e/law/index.html
+
+- title: Belk Library
+  url: 'www.elon.edu/u/library/'
+
+- title: Google Scholar
+  url: 'scholar.google.com/'
+
+- title: Westlaw
+  url: 'lawschool.westlaw.com/'
+
+- title: GitHub
+  url: 'github.com/LuckyJimJD'
