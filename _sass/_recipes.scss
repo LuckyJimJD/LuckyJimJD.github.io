@@ -5,12 +5,7 @@
 
 .recipe-header {
 	margin-top: 0;
-    margin-bottom: 1rem;
-}
-
-.recipe-header img {
-	max-width: 100%
-	padding: 2rem 0 1rem 0;
+    margin-bottom: 0rem;
 }
 
 .recipe-header h1 {
@@ -92,21 +87,3 @@
     width: 100%;
 }
 
-@media only screen
-and (max-device-width:576px){
-    .recipe-title {
-        font-size: $h1;
-    }
-    .recipe-header h1 {
-        font-size: $h2;
-    }
-    .recipe-header h2 {
-        font-size: $h3;
-    }
-    .recipe-header h3 {
-        font-size: $h4;
-    }
-    .recipe-header h4 {
-        font-size: $h5;
-    }
-}
