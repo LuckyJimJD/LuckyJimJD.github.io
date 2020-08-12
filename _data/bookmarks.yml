@@ -16,11 +16,17 @@
 - title: Pocket 
   url: 'app.getpocket.com/'
 
-- title: GitHub
-  url: 'github.com/LuckyJimJD'
+- title: Recipes 
+  url: 'www.emfink.net/Recipes'
 
 - title: Presentations
   url: 'www.emfink.net/Presentations'
+
+- title: Teaching
+  url: 'www.emfink.net/ElonLaw/teaching'
+
+- title: VitalSource
+  url: 'online.vitalsource.com/#/'
 
 - title: Elon Law
   url: www.elon.edu/e/law/index.html
@@ -34,3 +40,5 @@
 - title: Westlaw
   url: 'lawschool.westlaw.com/'
 
+- title: GitHub
+  url: 'github.com/LuckyJimJD'
