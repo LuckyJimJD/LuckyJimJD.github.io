@@ -1,5 +1,5 @@
 ---
-layout: page_no_nav
+layout: bookmarks
 permalink: /Bookmarks/
 title: Bookmarks
 ---
