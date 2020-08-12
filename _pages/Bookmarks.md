@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: no_foot
 permalink: /Bookmarks/
 title: Bookmarks
 ---
