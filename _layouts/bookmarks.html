@@ -1,0 +1,29 @@
+---
+layout: no_nav
+---
+
+<div class="wrapper">
+<div class="post">
+
+  <article class="post-content {{page.title}} clearfix">
+    
+	{% for bookmark in site.data.bookmarks %}
+
+	<div class="bookmark">
+	<div class="thumbnail">
+	<a href="https://{{ bookmark.url }}">
+	<span>
+	<h4>{{ bookmark.title }}</h4>
+	</span>
+	</a>
+	</div>
+	</div>
+
+	{% endfor %}
+
+  </article>
+
+
+
+</div>
+</div>
