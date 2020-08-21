@@ -8,6 +8,13 @@
     margin-bottom: 0;
 }
 
+.recipe-illustration {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    height: auto;
+    width: 100%;
+}
+
 .recipe-header h1 {
 	font-family: $heading-font; 
 	color: $theme-color;
@@ -74,16 +81,15 @@
 	font-style: italic;
 }
 
+.recipe img {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    height: auto;
+    max-width: 100%;
+}
+
 .recipe-meta {
     color: $grey;
     font-size: $small-size;
     margin-bottom: 0px;
 }
-
-.recipe-illustration {
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-    height: auto;
-    width: 100%;
-}
-
