@@ -1,15 +1,3 @@
-- title: Gmail
-  url: 'mail.google.com/mail/'
-
-- title: Outlook
-  url: 'outlook.office.com/owa/'
-
-- title: Calendar
-  url: 'calendar.google.com/calendar/r'
-
-- title: Google Drive
-  url: 'drive.google.com/drive/my-drive'
-
 - title: Notion 
   url: 'www.notion.so/luckyjimjd'
 
@@ -19,11 +7,14 @@
 - title: Recipes 
   url: 'www.emfink.net/Recipes'
 
+- title: Civ Pro
+  url: 'www.emfink.net/CivilProcedure'
+
+- title: PR
+  url: 'www.emfink.net/ProfessionalResponsibility'
+
 - title: Presentations
   url: 'www.emfink.net/Presentations'
-
-- title: Teaching
-  url: 'www.emfink.net/ElonLaw/teaching'
 
 - title: VitalSource
   url: 'online.vitalsource.com/#/'
