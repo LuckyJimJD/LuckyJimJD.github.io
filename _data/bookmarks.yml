@@ -1,9 +1,3 @@
-- title: Notion 
-  url: 'www.notion.so/luckyjimjd'
-
-- title: Pocket 
-  url: 'app.getpocket.com/'
-
 - title: Recipes 
   url: 'www.emfink.net/Recipes'
 
@@ -19,9 +13,6 @@
 - title: PR
   url: 'www.emfink.net/ProfessionalResponsibility'
 
-- title: Presentations
-  url: 'www.emfink.net/Presentations'
-
 - title: Elon Law
   url: www.elon.edu/e/law/index.html
 
@@ -33,6 +24,3 @@
 
 - title: Westlaw
   url: 'lawschool.westlaw.com/'
-
-- title: GitHub
-  url: 'github.com/LuckyJimJD'
