@@ -13,3 +13,7 @@
 - title: fab fa-soundcloud
   url: https://soundcloud.com/emfink
   label: soundcloud
+
+- title: fab fa-bookmark
+  url: https://www.emfink.net/Bookmarks
+  label: bookmarks
