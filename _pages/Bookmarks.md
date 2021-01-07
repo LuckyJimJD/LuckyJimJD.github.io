@@ -1,6 +1,6 @@
 ---
 layout: bookmarks
-permalink: /Bookmarks/
+permalink: /bookmarks/
 title: Bookmarks
 ---
 
