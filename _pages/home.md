@@ -3,7 +3,6 @@ layout: about
 permalink: /
 title: Home
 
-social: true
 ---
 
 # {{ site.title }}
