@@ -6,6 +6,21 @@
   min-height: 100%;
 }
 
+.profile-image {
+	background-color: #cccccc;
+	height: 100%;
+	width: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	overflow: hidden;
+}
+
+
 .profile-block {
 	width: 100%;
     text-align: left;

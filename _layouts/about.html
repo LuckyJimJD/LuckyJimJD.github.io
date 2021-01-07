@@ -1,51 +1,20 @@
 <!DOCTYPE html>
 <html>
-
 {% include head.html %}
 
 <body class="fullwidth">
-    
-<img src="{{ site.baseurl }}/assets/img/home.png" id="bg" alt="">
-
-<div class="page-content">
-<div class="post">
-
-<div class="profile">
-<article class="post-content {{page.title}} clearfix">
-<div class="profile-block">
-{{ content }}
-{% include social.html %}
-</div>
-</article>
-</div>
-
-
-
-</div>
-</div>
-
-{% include footer.html %}
-
-{% include hemline.html %}
-
-<!-- Statcounter code for emfink.net -->
-
-<script type="text/javascript">
-var sc_project=2853853; 
-var sc_invisible=1; 
-var sc_security="fe6dd262"; 
-</script>
-<script type="text/javascript"
-src="https://www.statcounter.com/counter/counter.js"
-async></script>
-<noscript><div class="statcounter"><a title="Web Analytics"
-href="https://statcounter.com/" target="_blank"><img
-class="statcounter"
-src="https://c.statcounter.com/2853853/0/fe6dd262/1/"
-alt="Web Analytics"></a></div></noscript>
-
-<!-- End of Statcounter Code -->
-
+	<div class="profile-image contrast-bg" style="background-image: url('cover.png');">
+		<div class="page-container">
+			<div class="profile">
+				<div class="profile-block">
+					{{ content }}
+					{% include social.html %}
+				</div>
+			{% include hemline.html %}
+			{% include statcounter.html %}
+			</div>
+		</div>
+	</div>
 </body>
 
 </html>
