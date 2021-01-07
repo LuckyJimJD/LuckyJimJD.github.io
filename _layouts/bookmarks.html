@@ -11,10 +11,10 @@
 
 
 <div class="wrapper">
-<div class="bookmarks">
+<div class="post">
 
   <article class="post-content {{page.title}} clearfix">
-    
+	<div class="bookmark-container">    
 	{% for bookmark in site.data.bookmarks %}
 
 	<div class="bookmark">
@@ -28,7 +28,7 @@
 	</div>
 
 	{% endfor %}
-
+	</div>
   </article>
 
 </div>
