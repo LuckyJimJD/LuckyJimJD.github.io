@@ -1,3 +1,8 @@
+.bookmarks {
+	background-color: #973A05;
+	opacity: 0.7;
+}
+
 .bookmark {
       box-sizing: border-box;
       float: left;
@@ -10,8 +15,6 @@
         overflow: hidden;
         height: 7rem;
         width: 100%;
-		background-color: $link-color;
-		opacity: 0.5;
 
         img {
             height: auto;
