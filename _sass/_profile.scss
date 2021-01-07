@@ -6,20 +6,6 @@
   min-height: 100%;
 }
 
-.profile-image {
-	background-color: #cccccc;
-	height: 100%;
-	width: 100%;
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-	overflow: hidden;
-}
-
 .profile-block {
 	width: 100%;
     text-align: left;
@@ -112,13 +98,21 @@
     display: inline-block;
 }
 
+@media only screen
+and (min-device-width:576px){
+    .list-inline {
+        font-size: 32px;
+    }
+    .list-inline>li {
+        padding-left: 0;
+        padding-right: 30px;
+        font-size: 2rem;
+    }
+}
+
 
 @media only screen
 and (min-device-width:770px){
-    .profile-block {
-        top: 4%;
-        left: 2%;
-    }
     .profile p {
         font-size: 1.2rem;
         line-height: 1.5;
@@ -161,21 +155,11 @@ and (min-device-width:770px){
     }
     
     .list-inline>li {
-        padding-left: 5px;
-        padding-right: 5px;
+        padding-left: 0;
+        padding-right: 50px;
     }
 }
 
 
 
-@media only screen
-and (min-device-width:576px){
-    .list-inline {
-        font-size: 32px;
-    }
-    .list-inline>li {
-        padding-left: 10px;
-        padding-right: 10px;
-        font-size: 2rem;
-    }
-}
+
