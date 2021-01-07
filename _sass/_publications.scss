@@ -3,13 +3,12 @@
         color: $theme-color;
         // border-bottom: 1px solid $theme-color;
         // border-top: 1px solid $theme-color;
-        font-size: $h2;
+        font-size: 32px;
         margin-bottom: 30px;
         // padding: 20px 0;
         text-align: center;
     }
 }
-
 .year {
     border-top: 1px solid $light-grey;
     color: $light-grey;
@@ -18,19 +17,19 @@
     text-align: right;
 }
 .bibliography {
-    margin-bottom: 50px;
-    margin-top: 20px;
-    list-style-type: circle;
+    margin-bottom: 2rem;
+    margin-top: 0;
+    list-style-type: none;
 
     li {
-        margin: 10px 0;
+        margin: 0 0 1.5rem 0;
         position: relative;
 
         span { display: block; }
-        .title { font-weight: bolder; }
+        .title { font-weight: $normal-weight; }
         .author {
-            a {
-                border-bottom: 1px dashed $theme-color;
+            a { 
+                border-bottom: 1px dashed;
                 &:hover {
                     border-bottom-style: solid;
                     text-decoration: none;
@@ -39,7 +38,11 @@
             > em {
                 border-bottom: 1px solid;
                 font-style: normal;
+                font-weight: bold;
             }
+        }
+        .coauthor {
+            font-weight: normal;
         }
         a.abstract, a.bibtex { cursor: pointer; }
         .hidden {
@@ -77,6 +80,10 @@
         span.abstract.hidden.open {
             border-color: $grey;
         }
+
+        span.notes {
+            color: $grey;
+        }       
     }
     abbr {
         position: absolute;

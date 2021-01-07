@@ -1,11 +1,7 @@
 <header class="site-header">
 
-  <div class="wrapper">
-
     {% if page.layout != "about" %}
-    <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/"><span class="site-title">
-        <strong>{{ site.title }}</strong>
-    </span></a>
+    <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/"><span class="site-title">{{ site.title }}</span></a>
     {% endif %}
 
     <nav class="site-nav">
@@ -21,16 +17,12 @@
         </label>
 
       <div class="trigger">
-       
-        
+         
         {% for page in site.data.pages %}
-            <a class="page-link" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">{{ page.title }}</a>
+            <a class="page-link" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
         {% endfor %}
-
-
+        
       </div>
     </nav>
-
-  </div>
 
 </header>
