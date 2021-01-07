@@ -5,6 +5,8 @@
 
 <body>
 
+{% include header.html %}
+
 <img src="{{ site.baseurl }}/assets/img/home.png" id="bg" alt="">
 
 <div class="page-content">
@@ -14,7 +16,6 @@
 <div class="post">
 
   <article class="post-content {{page.title}} clearfix">
-	<div class="bookmark-container">    
 	{% for bookmark in site.data.bookmarks %}
 
 	<div class="bookmark">
@@ -28,13 +29,14 @@
 	</div>
 
 	{% endfor %}
-	</div>
   </article>
 
 </div>
 </div>
 
 </div>
+
+{% include footer.html %}
 
 {% include hemline.html %}
 

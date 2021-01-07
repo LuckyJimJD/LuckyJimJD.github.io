@@ -1,19 +1,11 @@
-.bookmark-container {
-	background-color: #973A05;
-	opacity: 0.7;
-}
-
 .bookmark {
       box-sizing: border-box;
       float: left;
-      height: 8rem;
-      padding: .5rem;
       vertical-align: middle;
       width: 50%;
 
     .thumbnail {
         overflow: hidden;
-        height: 7rem;
         width: 100%;
 
         img {
