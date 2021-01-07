@@ -1,43 +1,23 @@
 <!DOCTYPE html>
 <html>
-
 {% include head.html %}
-
-<body>
-
-{% include header.html %}
-
-<img src="{{ site.baseurl }}/assets/img/cover.png" id="bg" alt="">
-
-<div class="page-content">
-
-
-<div class="wrapper">
-<div class="post">
-
-  <article class="post-content {{page.title}} clearfix">
-	{% for bookmark in site.data.bookmarks %}
-
-	<div class="bookmark">
-	<div class="thumbnail">
-	<a href="https://{{ bookmark.url }}">
-	<span>
-	<h4>{{ bookmark.title }}</h4>
-	</span>
-	</a>
+<body class="fullwidth">
+	<div class="profile-image contrast-bg" style="background-image: url('cover.png');">
+		{% include header.html %}
+		<div class="page-container">
+			{% for bookmark in site.data.bookmarks %}
+			<div class="bookmark">
+				<div class="thumbnail">
+					<a href="https://{{ bookmark.url }}">
+						<span>
+							<h4>{{ bookmark.title }}</h4>
+						</span>
+					</a>
+				</div>
+			</div>
+			{% endfor %}
+		</div>
+		{% include hemline.html %}
 	</div>
-	</div>
-
-	{% endfor %}
-  </article>
-
-</div>
-</div>
-
-</div>
-
-{% include hemline.html %}
-
 </body>
-
 </html>
