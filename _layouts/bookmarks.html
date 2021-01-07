@@ -2,9 +2,10 @@
 <html>
 {% include head.html %}
 <body class="fullwidth">
-	<div class="profile-image" style="background-image: url('cover.png');">
+	<div class="profile-image" style="background-image: url('../cover.png');">
 		{% include header.html %}
-		<div class="page-container">
+		<div class="bookmarks-container">
+			<div class="bookmarks-block">
 			{% for bookmark in site.data.bookmarks %}
 			<div class="bookmark">
 				<div class="thumbnail">
@@ -16,7 +17,8 @@
 				</div>
 			</div>
 			{% endfor %}
-		{% include hemline.html %}
+			{% include hemline.html %}
+			</div>
 		</div>
 	</div>
 </body>

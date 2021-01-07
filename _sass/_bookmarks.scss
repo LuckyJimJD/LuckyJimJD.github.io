@@ -1,3 +1,15 @@
+.bookmarks-container {
+    padding: 0 0;
+	height: 100%
+	background: rgba(0,0,0,0.4);
+}
+
+.bookmarks-block {
+	margin-top: 50px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
 .bookmark {
       box-sizing: border-box;
       float: left;
@@ -29,7 +41,6 @@
                 left: 0;
                 bottom: 0;
                 right: 0;
-                background: rgba(0,0,0,0.4);
                 padding: 0 0 0 0;
                 text-align: center;
 
